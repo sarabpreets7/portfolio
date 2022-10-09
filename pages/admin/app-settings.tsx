@@ -2,7 +2,7 @@ import React from 'react'
 import Head from 'next/head'
 import { Admin, AppSettings } from 'react-bricks'
 
-const AdminAppSettings: React.FC = () => {
+const AdminAppSettings = () => {
   return (
     <Admin>
       <Head>
