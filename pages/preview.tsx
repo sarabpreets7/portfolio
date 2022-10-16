@@ -2,7 +2,7 @@ import React from 'react'
 import Head from 'next/head'
 import { Preview } from 'react-bricks/frontend'
 
-const PagePreview = () => {
+const PagePreview: React.FC = () => {
   return (
     <>
       <Head>
